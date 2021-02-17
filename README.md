@@ -3,6 +3,7 @@
 * [Mozilla Blog](https://blog.mozilla.org/)
 * [Stack Overflow Blog](https://stackoverflow.blog/)
 * [GitHub Blog](https://github.blog/)
+* [Bootstrap Blog](https://blog.getbootstrap.com/)
 
 ## Lessons Learned
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
