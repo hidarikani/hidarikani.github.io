@@ -6,6 +6,9 @@
 * [Bootstrap Blog](https://blog.getbootstrap.com/)
 * [Material Design Blog](https://material.io/blog)
 
+## Useful Web Dev Tools
+* [Lorem Ipsum Generator](https://www.lipsum.com/)
+
 ## Lessons Learned
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
 * Apps are not very useful without content/data to operate on
