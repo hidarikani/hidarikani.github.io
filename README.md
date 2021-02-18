@@ -9,6 +9,11 @@
 ## Useful Web Dev Tools
 * [Lorem Ipsum Generator](https://www.lipsum.com/)
 
+## Create React App Additions
+* [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+* [classnames](https://www.npmjs.com/package/classnames)
+* [editorconfig](https://editorconfig.org/)
+
 ## Lessons Learned
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
 * Apps are not very useful without content/data to operate on
