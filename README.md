@@ -1,4 +1,3 @@
-# blog
 ## Useful Tech Blogs
 * [Mozilla Blog](https://blog.mozilla.org/)
 * [Stack Overflow Blog](https://stackoverflow.blog/)
@@ -11,7 +10,7 @@
 
 ## Create React App Additions
 * [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
-* [classnames](https://www.npmjs.com/package/classnames)
+* [classnames](https://www.npmjs.com/package/classnames), [@types/classnames](https://www.npmjs.com/package/@types/classnames)
 * [editorconfig](https://editorconfig.org/)
 
 ## Lessons Learned
