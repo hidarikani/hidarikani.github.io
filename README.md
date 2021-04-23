@@ -4,6 +4,7 @@
 * [GitHub Blog](https://github.blog/)
 * [Bootstrap Blog](https://blog.getbootstrap.com/)
 * [Material Design Blog](https://material.io/blog)
+* [Coding Horror](https://blog.codinghorror.com/)
 
 ## Useful Web Dev Tools
 * [Lorem Ipsum Generator](https://www.lipsum.com/)
