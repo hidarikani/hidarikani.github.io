@@ -9,10 +9,18 @@
 ## Useful Web Dev Tools
 * [Lorem Ipsum Generator](https://www.lipsum.com/)
 
+## Useful VSCode Plugins
+* [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
+* [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
+* [ESLint](https://github.com/Microsoft/vscode-eslint)
+* [https://github.com/Microsoft/vscode-eslint](https://github.com/Microsoft/vscode-eslint)
+* Theme - Oceanic Next
+
 ## Create React App Additions
 * [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
 * [classnames](https://www.npmjs.com/package/classnames), [@types/classnames](https://www.npmjs.com/package/@types/classnames)
 * [editorconfig](https://editorconfig.org/)
+* [prettier](https://prettier.io/)
 
 ## Lessons Learned
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
