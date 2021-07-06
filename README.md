@@ -17,10 +17,11 @@
 * Theme - Oceanic Next
 
 ## Create React App Additions
-* [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
-* [classnames](https://www.npmjs.com/package/classnames), [@types/classnames](https://www.npmjs.com/package/@types/classnames)
-* [editorconfig](https://editorconfig.org/)
-* [prettier](https://prettier.io/)
+* [Redux + TypeScript template](https://github.com/reduxjs/cra-template-redux-typescript)
+* [Set up Prettier with CRA](https://create-react-app.dev/docs/setting-up-your-editor/#formatting-code-automatically)
+* [Disable conflicting linter rules](https://prettier.io/docs/en/integrating-with-linters.html)
+* [Enforce 2 space rule when pressing TAB](https://editorconfig.org/)
+* [Library of choice to work with CSS classes in TSX](https://www.npmjs.com/package/classnames)
 
 ## Lessons Learned
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
