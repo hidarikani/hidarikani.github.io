@@ -13,7 +13,7 @@
 * [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 * [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
 * [ESLint](https://github.com/Microsoft/vscode-eslint)
-* [https://github.com/Microsoft/vscode-eslint](https://github.com/Microsoft/vscode-eslint)
+* [Prettier](https://github.com/prettier/prettier-vscode)
 * Theme - Oceanic Next
 
 ## Create React App Additions
