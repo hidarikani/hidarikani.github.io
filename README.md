@@ -15,6 +15,7 @@
 * [ESLint](https://github.com/Microsoft/vscode-eslint)
 * [Prettier](https://github.com/prettier/prettier-vscode)
 * Theme - Oceanic Next
+* View -> Open View... -> NPM Scripts
 
 ## Create React App Additions
 * [Redux + TypeScript template](https://github.com/reduxjs/cra-template-redux-typescript)
