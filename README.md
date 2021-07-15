@@ -9,6 +9,9 @@
 ## Useful Web Dev Tools
 * [Lorem Ipsum Generator](https://www.lipsum.com/)
 
+## Useful OS Links
+* [bash manual](https://www.gnu.org/software/bash/manual/bash.html)
+
 ## Useful VSCode Plugins
 * [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 * [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
