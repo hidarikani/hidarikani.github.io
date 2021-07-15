@@ -17,6 +17,7 @@
 * [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
 * [ESLint](https://github.com/Microsoft/vscode-eslint)
 * [Prettier](https://github.com/prettier/prettier-vscode)
+* [Touchbar customization](https://github.com/on2-dev/nasc-vscode-mac-touchbar) (for MacBook users)
 * Theme - Oceanic Next
 * View -> Open View... -> NPM Scripts
 
