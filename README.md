@@ -29,7 +29,7 @@
 * [Enforce 2 space rule when pressing TAB](https://editorconfig.org/)
 * [Library of choice to work with CSS classes in TSX](https://www.npmjs.com/package/classnames)
 
-## Lessons Learned
+## Thoughts
 * Software engineering is like cooking a dinner - somebody has to clean the kitchen afterwards
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
 * Apps are not very useful without content/data to operate on
