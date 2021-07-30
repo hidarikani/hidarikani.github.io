@@ -18,7 +18,7 @@ Add more resources: expand the storage, expand memory, install a faster CPU.
 
 ### Cons
 - In practice usually means adding two more machines because one is required to route traffic between the other two
-- Resources are idle if the load is fluctuating, for example load is much higher during particular time of the day/year
+- Resources are idle if the load is fluctuating, for example if load is much higher during particular time of the day/year
 
 ## 3. Adaptive scaling (container orchestration)
 When load increases additional pods are initialized
