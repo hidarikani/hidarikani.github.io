@@ -30,6 +30,7 @@
 * [Library of choice to work with CSS classes in TSX](https://www.npmjs.com/package/classnames)
 
 ## Lessons Learned
+* Software engineering is like cooking a dinner - somebody has to clean the kitchen afterwards
 * Great things are done by a team of different individuals that choose compensate for each others weaknesses
 * Apps are not very useful without content/data to operate on
 * Creating something great without iteration is practically impossible
