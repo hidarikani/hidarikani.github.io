@@ -1,12 +1,6 @@
 ## Configuration tips
 - Theme - Oceanic Next
-- View -> Open View... -> NPM Scripts
-- On MacBook Pro with Touch Bar to view function keys when VSCode is focused:
-    - System Preferences ->
-    - Keyboard ->
-    - Shortcuts ->
-    - Function Keys -> 
-    - Click the Plus Sign , select Visual Studio Code
+- View :arrow_right: Open View... :arrow_right: NPM Scripts
 
 ## VSCode Plugins
 * [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
