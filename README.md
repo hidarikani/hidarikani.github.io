@@ -6,3 +6,4 @@
 - [Tech blogs](/tech-blogs.md)
 - [Thoughts](/thoughts.md)
 - [VSCode tips](./vscode.md)
+- [Emerging web tech](./emerging-web-tech.md)
