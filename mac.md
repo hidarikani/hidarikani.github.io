@@ -9,3 +9,4 @@
     - Open shell config: `nano ~/.zshrc`
     - Add named dir: `hash -d github=~/Documents/Github`, save and close
     - In a new shell window change to the named dir: `cd ~github`
+- List used ports `lsof -PiTCP -sTCP:LISTEN`    
