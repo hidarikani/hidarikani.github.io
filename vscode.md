@@ -9,3 +9,4 @@
 * [Prettier](https://github.com/prettier/prettier-vscode)
 * [Markdown TOC](https://github.com/joffreykern/vscode-markdown-toc)
 * [Additional code snippets](https://github.com/xabikos/vscode-javascript)
+* [Git Lens](https://github.com/Axosoft/vscode-gitlens)
