@@ -10,3 +10,7 @@
 * [Markdown TOC](https://github.com/joffreykern/vscode-markdown-toc)
 * [Additional code snippets](https://github.com/xabikos/vscode-javascript)
 * [Git Lens](https://github.com/Axosoft/vscode-gitlens)
+* [JavaScript (ES6) code snippets](https://github.com/xabikos/vscode-javascript)
+* [Jest Snippets](https://github.com/andys8/vscode-jest-snippets)
+* [JS CodeFormer: Javascript Refactoring & Code Automation](https://github.com/cmstead/js-codeformer)
+
