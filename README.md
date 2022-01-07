@@ -1,3 +1,4 @@
+- [Software Engineer Competences](software-engineer-competences.md)
 - [Tips For Web Developers Working on Macs with Apple silicone (M1)](/mac.md)
 - [Online tools for web developers](/web-dev-tools.md)
 - [create-react-app additions](/create-react-app.md)
