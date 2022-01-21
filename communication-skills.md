@@ -13,8 +13,8 @@ Examples:
 - Passive: __Ok, yeah, I'll try.__ (avoiding eye contact, then secretly working overtime)
 - Assertive: __I'm not sure how to implement feature X because it's missing some requirements, furthermore, I don't think it's doable in a sprint.__
 - Passive-aggressive: __Sure, well do it, no problem!__ (smiling, then procrastinating until the sprint fails)
-- Product owner during retro: Why did you fail the task?
-- Passive-aggressive: What task? I don't remember committing to that! (lying)
+- Product owner during retro: __Why did you fail to implement feature X?__
+- Passive-aggressive: __What feature? I don't remember committing to implementing X!__ (lying)
 
 
 ## Explaining Complex Problems in a simple way
