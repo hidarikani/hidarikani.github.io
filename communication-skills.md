@@ -28,7 +28,7 @@ One way of doing it is practicing [storytelling](https://en.wikipedia.org/wiki/S
 - No, because this would be unprofessional. Would you like more context?
 
 ## Saying "stop"
-This one can be trickier because you say "yes" in the beginning but eventually yo're no longer satisfied with the situation:
+This one can be trickier because you say "yes" in the beginning but eventually you're no longer satisfied with the situation:
 - Let's have a two hour refinement session tomorrow at 10am.
 - Agreed, I'll be there.
 Next day 11:55am
