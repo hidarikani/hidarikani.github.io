@@ -1,4 +1,5 @@
 - [Communication Skills for Software Engineers](/communication-skills.md)
+- [How Many Original Thoughts Do I Have?](/original-thoughts.md)
 - [Software Engineer Competences](/software-engineer-competences.md)
 - [Tips For Web Developers Working on Macs with Apple silicone (M1)](/mac.md)
 - [Online tools for web developers](/web-dev-tools.md)
