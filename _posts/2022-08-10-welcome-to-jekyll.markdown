@@ -47,7 +47,7 @@ console.log('total: ' + total);
 cart.items; // undefined
 {% endhighlight %}
 
-#### Using `new` operator
+#### Using `new` Operator
 {% highlight javascript %}
 function ShoppingCart() { // constructor function
   var items = []; // private
