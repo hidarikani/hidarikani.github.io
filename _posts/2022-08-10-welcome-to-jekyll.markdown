@@ -9,7 +9,8 @@ The intention of this post is to compare a prototype chain based language with a
 The code examples are based on the following user story: as a buyer I want to add items to the cart so that I can view the total cost.
 
 ## JavaScript
-### Before 6th Edition – ECMAScript 2015
+### 5th Edition – ECMAScript 2009
+#### Using Closures
 {% highlight javascript %}
 function shoppingCart() {
   var items = []; // private
@@ -43,7 +44,70 @@ cart.addItem({
 
 var total = cart.calcTotal();
 console.log('total: ' + total);
+cart.items; // undefined
 {% endhighlight %}
 
-### After 6th Edition – ECMAScript 2015
-TBD
+#### Using `new` operator
+{% highlight javascript %}
+function ShoppingCart() { // constructor function
+  var items = []; // private
+
+  this.addItem = function (item) {
+    items.push(item);
+  }
+  
+  this.calcTotal = function() {
+    return items.reduce(function (acc, curr) {
+      return (acc += curr.price);
+    }, 0);
+  }
+};
+
+var cart = new ShoppingCart();
+
+cart.addItem({
+  name: "Ice cream",
+  price: 2,
+});
+
+cart.addItem({
+  name: "Backpack",
+  price: 150,
+});
+
+var total = cart.calcTotal();
+console.log('total: ' + total);
+cart.items; // undefined
+{% endhighlight %}
+
+### ECMAScript 2022
+{% highlight javascript %}
+class ShoppingCart {
+  #items = [];
+
+  addItem(item) {
+    this.#items.push(item);
+  }
+  
+  calcTotal() {
+    return this.#items.reduce(function (acc, curr) {
+      return (acc += curr.price);
+    }, 0);
+  }
+}
+var cart = new ShoppingCart();
+
+cart.addItem({
+  name: "Ice cream",
+  price: 2,
+});
+
+cart.addItem({
+  name: "Backpack",
+  price: 150,
+});
+
+var total = cart.calcTotal();
+console.log('total: ' + total);
+cart.items; // undefined
+{% endhighlight %}
