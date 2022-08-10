@@ -1,21 +1,15 @@
 ---
 layout: post
-title:  "JavaScript Versus C# - private properties"
+title:  "JavaScript Versus C# - Private Properties"
 date:   2022-08-10 08:00:00 +0200
 categories: JavaScript C# comparison
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The intention of this post is to compare a prototype chain based language with a language that implements the classic object-oriented model. Specifically, ECMAScript (JavaScript) and C# (.NET) were chosen.
 
-Jekyll requires blog post files to be named according to the following format:
+The code examples are based on the following user story: as a buyer I want to add items to the cart so that I can view the total cost.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-The intention of this post is to compare a prototype chain based language with a language that implements the classic object-oriented model. Specifically ECMAScript (JavaScript) and C# (.NET) were chosen.
-
-The code examples are based on the following user story: As a buyer I want to add items to the cart so that I can view the total cost.
-
-# JavaScript
-## Before 6th Edition – ECMAScript 2015
+## JavaScript
+### Before 6th Edition – ECMAScript 2015
 {% highlight javascript %}
 function shoppingCart() {
   var items = []; // private
@@ -51,5 +45,5 @@ var total = cart.calcTotal();
 console.log('total: ' + total);
 {% endhighlight %}
 
-## After 6th Edition – ECMAScript 2015
+### After 6th Edition – ECMAScript 2015
 TBD
