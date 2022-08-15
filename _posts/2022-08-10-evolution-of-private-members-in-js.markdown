@@ -4,6 +4,8 @@ title:  "Evolution of Private Members in JavaScript"
 date:   2022-08-10 08:00:00 +0200
 categories: ECMAScript JavaScript C# comparison
 ---
+*Updated on 2022-08-15*
+
 Let's compare different techniques for creating private members in JavaScript.
 In the beginning JavaScript didn't have classes, so private members were created using closures and the new operator.
 Later classed were added, however, they translate to prototype chains anyway.
