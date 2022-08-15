@@ -14,107 +14,20 @@ The code examples are based on the following user story: as a buyer I want to ad
 ### 5th Edition – ECMAScript 2009
 #### Function returning an object
 {% highlight javascript %}
-function shoppingCart() {
-  var items = []; // private
-
-  addItem = function (item) {
-    items.push(item);
-  }
-
-  calcTotal = function() {
-    return items.reduce(function (acc, curr) {
-      return (acc += curr.price);
-    }, 0);
-  }
-
-  return {
-    addItem: addItem,
-    calcTotal: calcTotal
-  }
-}
-
-var cart = shoppingCart();
-cart.addItem({
-  name: "Ice cream",
-  price: 2,
-});
-
-cart.addItem({
-  name: "Backpack",
-  price: 150,
-});
-
-var total = cart.calcTotal();
-console.log('total: ' + total);
-cart.items; // undefined
+{% include_relative evolution-of-private-members-in-js/fn-returning-object.js %}
 {% endhighlight %}
 
-#### `new` and `this`
+#### `new` Operator and `this` Keyword
 {% highlight javascript %}
-function ShoppingCart() { // constructor function
-  var items = []; // private
-
-  this.addItem = function (item) {
-    items.push(item);
-  }
-  
-  this.calcTotal = function() {
-    return items.reduce(function (acc, curr) {
-      return (acc += curr.price);
-    }, 0);
-  }
-};
-
-var cart = new ShoppingCart();
-
-cart.addItem({
-  name: "Ice cream",
-  price: 2,
-});
-
-cart.addItem({
-  name: "Backpack",
-  price: 150,
-});
-
-var total = cart.calcTotal();
-console.log('total: ' + total);
-cart.items; // undefined
+{% include_relative evolution-of-private-members-in-js/new-and-this.js %}
 {% endhighlight %}
 
-### th Edition – ECMAScript 2015
+### 6th Edition – ECMAScript 2015
 {% highlight javascript %}
 {% include_relative evolution-of-private-members-in-js/ES6-2015.js %}
 {% endhighlight %}
 
 ### ECMAScript 2022
 {% highlight javascript %}
-class ShoppingCart {
-  #items = [];
-
-  addItem(item) {
-    this.#items.push(item);
-  }
-  
-  calcTotal() {
-    return this.#items.reduce(function (acc, curr) {
-      return (acc += curr.price);
-    }, 0);
-  }
-}
-var cart = new ShoppingCart();
-
-cart.addItem({
-  name: "Ice cream",
-  price: 2,
-});
-
-cart.addItem({
-  name: "Backpack",
-  price: 150,
-});
-
-var total = cart.calcTotal();
-console.log('total: ' + total);
-cart.items; // undefined
+{% include_relative evolution-of-private-members-in-js/ES13-2022.js %}
 {% endhighlight %}

@@ -1,15 +1,14 @@
 class ShoppingCart {
-    constructor() {
-      let items = []; // private
-      this.addItem = function(item) {
-        items.push(item);
-      }
-      
-      this.calcTotal = function() {
-        return items.reduce(function (acc, curr) {
-          return (acc += curr.price);
-        }, 0);
-      }
+    #items = [];
+  
+    addItem(item) {
+      this.#items.push(item);
+    }
+    
+    calcTotal() {
+      return this.#items.reduce(function (acc, curr) {
+        return (acc += curr.price);
+      }, 0);
     }
   }
   var cart = new ShoppingCart();
