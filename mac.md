@@ -7,4 +7,5 @@
 - Open Rosetta terminal `arch -x86_64 zsh`
 - Emulate Docker image that is not available for ARM64 `--platform linux/amd64`
 - `nvm alias default node` to use the latest version of Node installed on your computer
-- List used ports `lsof -PiTCP -sTCP:LISTEN`    
+- List used ports `lsof -PiTCP -sTCP:LISTEN`
+- Edit hosts file `sudo nano /etc/hosts` Works well for preventing mindless scrolling of social media :)
