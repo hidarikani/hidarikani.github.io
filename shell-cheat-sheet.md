@@ -12,7 +12,7 @@ screen
 Second, run your command. Third, "minimize" screen:
 
 - CTR+A
-- CTRL+D
+- D
 
 To disconnect:
 ```
@@ -22,6 +22,10 @@ After reconnecting restore session:
 ```
 screen -r
 ```
+Quit screen when you no longer need it
+- CTR+A
+- \
+- y
 
 ## File System
 
