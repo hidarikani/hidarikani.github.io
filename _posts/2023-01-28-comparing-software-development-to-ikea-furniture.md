@@ -1,0 +1,5 @@
+# Comparing Software to IKEA Furniture
+
+Imagine your product owner buying an IKEA chair, bringing it to the office, and asking you to estimate, the assembly time. Before giving an estimate you'd probably examine the included instruction manual, which lists all the required steps. The manual was, likely, tested multiple times by IKEA, to make sure does not contain any errors. Furthermore, the individual parts are guaranteed to fit together.
+
+Now let's contrast IKEA furniture with software development. You are given requirements for a new software system and asked to estimate implementation time. An instruction manual, can't be written (in advance) because some steps are unclear. Because, the planned software system is usually unique. Unique means nothing exactly like it hasn't been built before. In furniture terms, you have experience in assembling chairs, but now you're being asked to estimate assembling custom kitchen cabinets.
