@@ -1,4 +1,11 @@
 # Shell Cheat Sheet
+## Getting Help
+command manual 
+```
+man ls
+```
+Press `q` to exit. Press `/` to search.
+
 ## Connecting to Remote
 Basic `ssh` connection:
 ```
@@ -28,6 +35,22 @@ Quit screen when you no longer need it
 - y
 
 ## File System
+View directory contents
+```
+ls -lAFG
+```
+- `-l` more info
+- `-A` show hidden files, except `.` and `..`
+- `-F` hint if item is dir, file, symlink, or something else
+- `-G` add color
+
+
+Create folder
+```
+mkdir -p ~/foo/bar
+```
+Without `-p` will complain `foo` doesn't exist.
+
 
 Print working directory
 ```
