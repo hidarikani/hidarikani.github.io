@@ -7,3 +7,4 @@
 * [Norman Nielsen Group articles](https://www.nngroup.com/topic/web-usability/)
 * [CSS Tricks](https://css-tricks.com/)
 * [Chrome Status](https://chromestatus.com/roadmap)
+* [React Blog](https://react.dev/blog)
