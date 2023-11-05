@@ -1,4 +1,4 @@
-# MacOS Tips
+# MacOS Web Dev Tips
 
 - To display function keys in the Touch Bar when VSCode is in focus:
     System Preferences :arrow_right: Keyboard :arrow_right: Shortcuts :arrow_right: Function Keys :arrow_right: Click the Plus Sign :arrow_right: select Visual Studio Code
@@ -9,3 +9,4 @@
 - `nvm alias default node` to use the latest version of Node installed on your computer
 - List used ports `lsof -PiTCP -sTCP:LISTEN`
 - Edit hosts file `sudo nano /etc/hosts` Works well for preventing mindless scrolling of social media :)
+- Show/hide files that begin with a dot `CMD + SHIFT + .`
