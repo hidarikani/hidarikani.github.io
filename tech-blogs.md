@@ -9,3 +9,4 @@
 * [Kerbs On Security](https://krebsonsecurity.com/) - security incident news
 * [Cloudflare Blog](https://blog.cloudflare.com/)
 * [Yarn Blog](https://yarnpkg.com/blog)
+* [Prettier Blog](https://prettier.io/blog/)
