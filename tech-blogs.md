@@ -10,3 +10,4 @@
 * [Cloudflare Blog](https://blog.cloudflare.com/)
 * [Yarn Blog](https://yarnpkg.com/blog)
 * [Prettier Blog](https://prettier.io/blog/)
+* [Vercel Blog](https://vercel.com/blog)
