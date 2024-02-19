@@ -1,6 +1,6 @@
 # Frameworks
-- https://nextjs.org/
-- https://remix.run/
+- [Next](https://nextjs.org/)
+- [Remix](https://remix.run/)
 
 # Libs
-- https://react.dev/
+- [React](https://react.dev/)
