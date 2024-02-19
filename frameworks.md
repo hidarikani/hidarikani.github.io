@@ -1,2 +1,6 @@
-# Notable Web Dev Frameworks
-- https://vitest.dev/
+# Frameworks
+- https://nextjs.org/
+- https://remix.run/
+
+# Libs
+- https://react.dev/

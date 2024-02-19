@@ -1,4 +1,4 @@
-#`git` Tips
+# `git` Tips
 
 ## Make `git` Forget Latest Commits
 ```
