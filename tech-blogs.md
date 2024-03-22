@@ -2,6 +2,7 @@
 * [Mozilla Blog](https://blog.mozilla.org/)
 * [Stack Overflow Blog](https://stackoverflow.blog/)
 * [GitHub Blog](https://github.blog/)
+* [GitHub Next](https://githubnext.com/)
 * [VSCode Blog](https://code.visualstudio.com/blogs/)
 * [CSS Tricks](https://css-tricks.com/)
 * [Chrome Status](https://chromestatus.com/roadmap)
