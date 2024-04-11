@@ -6,3 +6,7 @@
 - [CommandBar](https://www.commandbar.com/#intro-video) - user assistance
 - [Bito](https://bito.ai/) - code reviews
 - [Sana](https://sanalabs.com/) - knowledge assistant
+- [ClockWise](https://www.getclockwise.com/) - calendar automation
+- [pganalyze](https://pganalyze.com/) - Postgres optimization
+- [Modular](https://pganalyze.com/) - Mojo - AI specific programming language
+- [Replit](https://replit.com/) - Natural language collaborative coding environment
